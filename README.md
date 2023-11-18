@@ -19,11 +19,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cross-chain-safe/contracts/pull/1) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
-2. 💪 Opened PR [#1](https://github.com/cross-chain-safe/contracts/pull/1) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
-3. 🗣 Commented on [#9](https://github.com/evolutionlandorg/tron-contracts/issues/9#issuecomment-1746254190) in [evolutionlandorg/tron-contracts](https://github.com/evolutionlandorg/tron-contracts)
-4. 💪 Opened PR [#2482](https://github.com/DeFiCh/ain/pull/2482) in [DeFiCh/ain](https://github.com/DeFiCh/ain)
-5. 🗣 Commented on [#9](https://github.com/evolutionlandorg/tron-contracts/issues/9#issuecomment-1662454275) in [evolutionlandorg/tron-contracts](https://github.com/evolutionlandorg/tron-contracts)
+1. 🎉 Merged PR [#2](https://github.com/cross-chain-safe/contracts/pull/2) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
+2. 💪 Opened PR [#2](https://github.com/cross-chain-safe/contracts/pull/2) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
+3. 🎉 Merged PR [#1](https://github.com/cross-chain-safe/contracts/pull/1) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
+4. 💪 Opened PR [#1](https://github.com/cross-chain-safe/contracts/pull/1) in [cross-chain-safe/contracts](https://github.com/cross-chain-safe/contracts)
+5. 🗣 Commented on [#9](https://github.com/evolutionlandorg/tron-contracts/issues/9#issuecomment-1746254190) in [evolutionlandorg/tron-contracts](https://github.com/evolutionlandorg/tron-contracts)
 <!--END_SECTION:activity-->
 
 

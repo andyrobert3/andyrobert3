@@ -8,7 +8,8 @@ I've had the privilege of participating in and winning prizes at several hackath
 - [Uniswap Hook Incubator](https://projects.atrium.academy/Memediction-1035f0444abe81febee1cdec4580782f) - **Memediction**, AMM Prediction Market built on Uniswap v4 Hooks
 - [ETH Brussels 2024](https://ethglobal.com/showcase/launchfi-o5iiq) - **LaunchFi**, a platform for launching custom bonding curve tokens powered by Uniswap & Pancakeswap v4
 - [ETH Istanbul 2023](https://ethglobal.com/showcase/cross-chain-safe-f5w5g) - Cross Chain Safe Wallet powered by Hyperlane
-- [ETH Tokyo 2023](https://ethglobal.com/showcase/interest-carry-trade-arbitrageur-4scrx) - Automated token carry swap bot tht exploits interest rate differentials
+- [ETH Tokyo 2023](https://ethglobal.com/showcase/interest-carry-trade-arbitrageur-4scrx) -  Carry swap bot exploits interest rate differentials between lending / borrowing order pairs
+
 
 Besides hackathons, these are some open source projects that I contributed towards:
 - [Aave v3 Wallet Migration](https://github.com/SBIP-Migration/contracts) - Migrate Aave positions between wallets using Flash Loans
@@ -18,3 +19,4 @@ Besides hackathons, these are some open source projects that I contributed towar
 
 Learning & Exploration 🔍
 - Currently, I'm diving deep into Zero Knowledge Proofs (Circom) through the Rareskills Bootcamp. Still wrapping my head around it—wish me luck! 🚀
+

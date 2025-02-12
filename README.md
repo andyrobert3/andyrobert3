@@ -18,5 +18,5 @@ Besides hackathons, these are some open source projects that I contributed towar
 - [Go Quorum](https://github.com/Consensys/quorum/pulls/matthew-alexander-partior) - go-ethereum permissioned fork by Consensys
 
 Learning & Exploration 🔍
-- Currently, I'm diving deep into Zero Knowledge Proofs (Circom) through the Rareskills Bootcamp. Still wrapping my head around it—wish me luck! 🚀
+- To satisfy my intellectual curiosity, I'm diving deep into Zero Knowledge Proofs (Circom) through the Rareskills Bootcamp. Still wrapping my head around it—wish me luck! 🚀
 

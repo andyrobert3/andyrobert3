@@ -18,6 +18,6 @@ Besides hackathons, these are some open source projects that I contributed towar
 - [Alloy](https://github.com/alloy-rs/core/pulls?q=is:pr+author:andyrobert3+is:closed)
 - [Go Quorum](https://github.com/Consensys/quorum/pulls/matthew-alexander-partior) - go-ethereum permissioned fork by Consensys
 
-Learning & Exploration 🔍
-- To satisfy my intellectual curiosity, I'm diving deep into Zero Knowledge Proofs (Circom) through the Rareskills Bootcamp. Still wrapping my head around it—wish me luck! 🚀
+Building [IBFT Rust](https://github.com/andyrobert3/ibft-rust) in my spare time, implementation of the PoA Istanbul BFT consensus algorithm in Rust (WIP). 
+Contributions welcome :)
 

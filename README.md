@@ -2,14 +2,14 @@
 
 thanks for stopping by!  
 
-i'm Matthew, a Web3 developer based in Singapore, primarily focused on EVM-based development. Currently, I'm expanding my expertise by diving into Solana (SVM) and Rust, aiming to reach a proficient level in both.
+i'm matthew, a web3 developer based in singapore, primarily focused on evm-based development. currently, i'm expanding my expertise by diving into solana (svm) and rust, aiming to reach a proficient level in both.
 
 ---
 
-### 🛠 Projects & Open Source
+### 🛠 projects & open source
 
 **`evm-lens`** → [github.com/andyrobert3/evm-lens](https://github.com/andyrobert3/evm-lens)  
-> A CLI tool for disassembling Ethereum bytecode into clean, color-coded opcodes. Built in Rust.
+> a cli tool for disassembling ethereum bytecode into clean, color-coded opcodes. built in rust.
 
 ![evm-lens demo](https://github.com/user-attachments/assets/31fc0e2f-18bb-4bec-ba16-f824e8ea2db0)
 ```bash
@@ -17,19 +17,19 @@ cargo install evm-lens
 ```
 
 
-#### Others contributions:
-- [Aave v3 Wallet Migration](https://github.com/SBIP-Migration/contracts) – Main contributor; built the Flash Loan-based mechanism to migrate Aave positions between wallets
-- [Foundry](https://github.com/foundry-rs/foundry/pulls?q=is:pr+author:andyrobert3+is:closed)
-- [Alloy](https://github.com/alloy-rs/core/pulls?q=is:pr+author:andyrobert3+is:closed)
-- [Go Quorum](https://github.com/Consensys/quorum/pulls/matthew-alexander-partior) – go-ethereum permissioned fork by Consensys
+#### others contributions:
+- [aave v3 wallet migration](https://github.com/sbip-migration/contracts) – main contributor; built the flash loan-based mechanism to migrate aave positions between wallets
+- [foundry](https://github.com/foundry-rs/foundry/pulls?q=is:pr+author:andyrobert3+is:closed)
+- [alloy](https://github.com/alloy-rs/core/pulls?q=is:pr+author:andyrobert3+is:closed)
+- [go quorum](https://github.com/consensys/quorum/pulls/matthew-alexander-partior) – go-ethereum permissioned fork by consensys
 
 ---
 
-### 🏆 Hackathons
+### 🏆 hackathons
 
-- 🧠 [Uniswap Hook Incubator](https://projects.atrium.academy/Memediction-1035f0444abe81febee1cdec4580782f) – **Memediction**: AMM prediction market using Uniswap v4 Hooks  
-- 🚀 [ETH Brussels 2024](https://ethglobal.com/showcase/launchfi-o5iiq) – **LaunchFi**: Token launchpad with bonding curve liquidity via Uniswap/PancakeSwap v4  
-- 🔐 [ETH Istanbul 2023](https://ethglobal.com/showcase/cross-chain-safe-f5w5g) – Cross-chain safe wallet powered by Hyperlane  
-- 📈 [ETH Tokyo 2023](https://ethglobal.com/showcase/interest-carry-trade-arbitrageur-4scrx) – Arbitrage bot exploiting DeFi interest rate differentials  
-- 🧾 [ETH Taipei 2025](https://ethglobal.com/showcase/qwallet-protocol-esqej) – Decentralized off-ramp service via wise.com + ZK-proofs, built on Open Intents
+- 🧠 [uniswap hook incubator](https://projects.atrium.academy/memediction-1035f0444abe81febee1cdec4580782f) – **memediction**: amm prediction market using uniswap v4 hooks  
+- 🚀 [eth brussels 2024](https://ethglobal.com/showcase/launchfi-o5iiq) – **launchfi**: token launchpad with bonding curve liquidity via uniswap/pancakeswap v4  
+- 🔐 [eth istanbul 2023](https://ethglobal.com/showcase/cross-chain-safe-f5w5g) – cross-chain safe wallet powered by hyperlane  
+- 📈 [eth tokyo 2023](https://ethglobal.com/showcase/interest-carry-trade-arbitrageur-4scrx) – arbitrage bot exploiting defi interest rate differentials  
+- 🧾 [eth taipei 2025](https://ethglobal.com/showcase/qwallet-protocol-esqej) – decentralized off-ramp service via wise.com + zk-proofs, built on open intents
 

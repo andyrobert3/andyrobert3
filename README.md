@@ -10,11 +10,11 @@ i'm matthew, a web3 developer based in singapore, primarily focused on evm-based
 
 **`evm-lens`** → [github.com/andyrobert3/evm-lens](https://github.com/andyrobert3/evm-lens)  
 > a cli tool for disassembling ethereum bytecode into clean, color-coded opcodes. built in rust.
-
-![evm-lens demo](https://github.com/user-attachments/assets/31fc0e2f-18bb-4bec-ba16-f824e8ea2db0)
 ```bash
 cargo install evm-lens
 ```
+
+![demo-evm-lens](https://github.com/user-attachments/assets/92259758-42e8-4e8a-9dcb-488649ae1d0e)
 
 
 #### others contributions:

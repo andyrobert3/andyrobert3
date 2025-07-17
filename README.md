@@ -2,7 +2,7 @@
 
 thanks for stopping by!  
 
-i'm matthew, a web3 developer based in singapore, primarily focused on evm-based development. currently, i'm expanding my expertise by diving into solana (svm) and rust, aiming to reach a proficient level in both.
+i'm matthew, a blockchain developer based in singapore, primarily focused on evm development. currently expanding my expertise by diving into solana and rust; part of the inagural bootcamp for [rektoff](https://www.rektoff.xyz/) - rust solana security bootcamp.
 
 ---
 

@@ -2,7 +2,7 @@
 
 thanks for stopping by!  
 
-i'm matthew, a blockchain developer based in singapore, primarily focused on evm development. currently expanding my expertise by diving into solana and rust; part of the inagural bootcamp for [rektoff](https://www.rektoff.xyz/) - rust solana security bootcamp.
+i'm alex - backend web3 developer working at a perp dex, primarily focused on low latency & evm development. learning market-making / trading strategies in my free time.
 
 ---
 
